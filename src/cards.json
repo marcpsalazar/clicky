@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "alt": "strawberry",
+    "image": "https://png.icons8.com/color/1600/strawberry.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "alt": "lemon",
+    "image": "https://png.icons8.com/color/1600/citrus.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "alt": "banana",
+    "image": "https://png.icons8.com/color/1600/banana.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "alt": "pineapple",
+    "image": "https://png.icons8.com/color/1600/pineapple.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "alt": "raspberry",
+    "image": "https://png.icons8.com/color/1600/raspberry.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "alt": "cherries",
+    "image": "https://png.icons8.com/color/1600/cherry.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "alt": "melon",
+    "image": "https://png.icons8.com/color/1600/melon.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "alt": "peach",
+    "image": "https://png.icons8.com/color/1600/peach.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "alt": "avocado",
+    "image": "https://png.icons8.com/color/1600/avocado.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "alt": "pumpkin",
+    "image": "https://png.icons8.com/color/1600/pumpkin.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "alt": "pepper",
+    "image": "https://png.icons8.com/color/1600/paprika.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "alt": "olives",
+    "image": "https://png.icons8.com/color/1600/olive.png",
+    "clicked": false
+  }
+]
